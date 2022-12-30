@@ -6,10 +6,10 @@ Web Designer & Frontend Developer
 
 Experienced in designing and developing responsive and dynamic websites and web apps. Proficient in HTML5, CSS3, JavaScript, and contemporary libraries and frameworks.
 
-* ✉️ You can contact me at [ariba.madakia@gmail.com](mailto:ariba.madakia@gmail.com)
-* ⚡ I create content to spread knowledge across my socials.
-* 🤝 I'm open to collaborating on my social media channels.
-* 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
+ ✉️ You can contact me at [ariba.madakia@gmail.com](mailto:ariba.madakia@gmail.com)
+ ⚡ I create content to spread knowledge across my socials.
+ 🤝 I'm open to collaborating on my social media channels.
+ 😸 It’s good to learn from other’s mistakes, I wish people learn something from me.
 
 ### Skills
 
