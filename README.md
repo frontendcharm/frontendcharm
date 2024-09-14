@@ -1,7 +1,7 @@
 Hi 👋 My name is Ariba Madakia
 ==============================
 
-Web Designer & Frontend Developer
+Frontend Developer
 ---------------------------------
 
 Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with HTML5, CSS3, JavaScript along with modern libraries and frameworks.
