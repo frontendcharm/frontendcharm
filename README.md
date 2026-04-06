@@ -5,7 +5,7 @@ Frontend Developer
 ---------------------------------
 
 Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with HTML5, CSS3, JavaScript along with modern libraries and frameworks.
-✉️ You can contact me at [ariba.madakia@gmail.com](mailto:ariba.madakia@gmail.com)
+You can contact me at ✉️ [ariba.madakia@gmail.com](mailto:ariba.madakia@gmail.com)
 
 ### Skills
 
